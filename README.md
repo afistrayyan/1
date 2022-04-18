@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class=container>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+        <div> </div>
+
+    </div> 
+    <div class='greeting-text'> 
+        <br>
+        <h2>KELUARGA BESAR</h1>
+        <h2>BANI THOHA MURTADLO</h1>
+
+    <img width="700 px"
+         height="400 px" 
+        src="bnth.jpg"> 
+        <h1>Mengucapkan</h1>
+        <h1>.: Selamat Hari Raya Idul Fitri :.</h1>
+        <br>
+        <h1 style="margin-top: -20px;">Mohon maaf lahir dan batin</h1>
+    </div>
+
+</body>
+</html>
